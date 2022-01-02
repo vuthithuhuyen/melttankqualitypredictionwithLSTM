@@ -14,7 +14,9 @@ Trained model with 1 input-step, features: MELT_TEMP, INSP
 
 
 
-<img src="/Evaluation results/1-MELT_TEMP-MOTORSPEED.png" alt="drawing" width="200"/>
+<img src="/Evaluation results/1-MELT_TEMP-MOTORSPEED.png" alt="drawing" width="600"/>
+
+
 Trained model with 1 input-step, features: MELT_TEMP, MOTORSPEED
 
 
