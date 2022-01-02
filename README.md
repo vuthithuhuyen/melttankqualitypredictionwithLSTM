@@ -10,12 +10,12 @@ Some experiment results of the system.
 System user interface
 
 ![](Evaluation%20results/1-MELT_TEMP-INSP.png)
+
 Trained model with 1 input-step, features: MELT_TEMP, INSP
 
 
 
 <img src="/Evaluation results/1-MELT_TEMP-MOTORSPEED.png" alt="drawing" width="300"/>
-
 
 Trained model with 1 input-step, features: MELT_TEMP, MOTORSPEED
 
