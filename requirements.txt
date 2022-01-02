@@ -1,0 +1,9 @@
+opencv-python
+pandas
+numpy
+pyqt5
+sklearn
+qimage2ndarray
+pillow
+matplotlib
+tensorflow

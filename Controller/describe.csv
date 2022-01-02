@@ -1,0 +1,20 @@
+,MIXA_PASTEUR_STATE,MIXB_PASTEUR_STATE,MIXA_PASTEUR_TEMP,MIXB_PASTEUR_TEMP,,,,
+count,9383,9383,9383,9383,,,,
+mean,0.49600341,0.49600341,47.42374507,47.30454013,,,,
+std,0.500010672,0.500010672,12.88018987,12.4435481,,,,
+min,0,0,0,0,,,,
+25%,0,0,29.8,31.2,,,,
+50%,0,0,53.8,53.6,,,,
+75%,1,1,57.1,56.9,,,,
+max,1,1,77.2,76.5,,,,
+,,,,,,,,
+,,,,,,,,
+,,,Field,Data type,Min,Max, Count ,Explanation
+,,,STD_DT,Date time,3/4/2020,11/11/2020," 210,794 ",Time of process
+,,,MixA_TEMP,Float64,0,77.2," 201,423 ",
+,,,MixB_TEMP,Float64,0,76.5," 198,802 ",
+,,,,,,,,
+,,,,,Value set,,,
+,,,MixA_STATE,Boolean,0,1," 11,135 ",State of machine A
+,,,MixB_STATE,Boolean,0,1," 10,255 ",State of machine B
+,,,INSP,String,OK,NG," 210,794 ",Quality label
